@@ -46,7 +46,7 @@ _______________________________________________________________________________
 |  LEONARDO RIBEIRO | |
 |  MARCOS ANTONIO POVINSKE | |
 |  TIAGO AUGUSTO SEIXAS  | |
-|  TIAGO SANTOS | |
+|  TIAGO SANTOS | ❌ |
 |  VICTOR |  |
 
 </body>
