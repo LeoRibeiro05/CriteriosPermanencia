@@ -44,7 +44,7 @@ _______________________________________________________________________________
 | DIEGO SALES GAMERO JOÃO| |
 |  JOÃO PEDRO VENTURA | | 
 |  LEONARDO RIBEIRO | |
-|  MARCOS ANTONIO POVINSKE | |
+|  MARCOS ANTONIO POVINSKE | ❌ |
 |  TIAGO AUGUSTO SEIXAS  | |
 |  TIAGO SANTOS | ❌ |
 |  VICTOR |  |
