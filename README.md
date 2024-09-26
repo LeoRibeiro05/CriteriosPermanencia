@@ -43,7 +43,7 @@ _______________________________________________________________________________
 | DIEGO RAFAEL MORENO VITVICKI| |
 | DIEGO SALES GAMERO JOÃO| ❌ |
 |  JOÃO PEDRO VENTURA | ❌ | 
-|  LEONARDO RIBEIRO | |
+|  LEONARDO RIBEIRO | ❌ |
 |  MARCOS ANTONIO POVINSKE | ❌ |
 |  TIAGO AUGUSTO SEIXAS  | |
 |  TIAGO SANTOS | ❌ |
